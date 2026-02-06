@@ -1,0 +1,11 @@
+#all the apps
+[
+  {
+    "id": "WoutStudiosSite,
+    "name": "WoutStudios Mobile app",
+    "description": "Dit is de mobile app voor WoutStudios.",
+    "iconUrl": "https://raw.githubusercontent.com/minecraftertjewout/WoutStudios-APP-Store/main/icons/game1.png",
+    "downloadUrl": "https://raw.githubusercontent.com/minecraftertjewout/WoutStudios-APP-Store/main/apks/game1.apk",
+    "version": "1.0.0"
+  }
+]
