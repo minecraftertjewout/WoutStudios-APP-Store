@@ -1,7 +1,6 @@
-#all the apps
 [
   {
-    "id": "WoutStudiosSite,
+    "id": "WoutStudiosSite",
     "name": "WoutStudios Mobile app",
     "description": "Dit is de mobile app voor WoutStudios.",
     "iconUrl": "https://raw.githubusercontent.com/minecraftertjewout/WoutStudios-APP-Store/main/icons/game1.png",
