@@ -1,9 +1,10 @@
 [
   {"id": "WoutStudiosSite",
+    "packageName": "com.game.woutstudios",
     "name": "WoutStudios Mobile app",
     "description": "WoutStudios Mobile App",
     "iconUrl": "https://raw.githubusercontent.com/minecraftertjewout/WoutStudios-APP-Store/main/apps/wout%20studios.png",
-    "downloadUrl": "https://github.com/minecraftertjewout/WoutStudios-APP-Store/raw/refs/heads/main/apk/WoutStudiosM.apk",
+    "downloadUrl": "https://raw.githubusercontent.com/minecraftertjewout/WoutStudios-APP-Store/main/apk/WoutStudiosM.apk",
     "version": "1.0.0",
     "screenshots": [
       "https://raw.githubusercontent.com/minecraftertjewout/WoutStudios-APP-Store/main/apps/Screenshot_2026-02-06-18-33-19-08_a0e4ecee1711c7f4d7340a1e222d4c94.jpg",
