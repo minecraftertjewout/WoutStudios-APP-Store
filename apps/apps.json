@@ -6,5 +6,8 @@
     "iconUrl": "https://raw.githubusercontent.com/minecraftertjewout/WoutStudios-APP-Store/main/apps/wout%20studios.png",
     "downloadUrl": "https://raw.githubusercontent.com/minecraftertjewout/WoutStudios-APP-Store/main/apks/game1.apk",
     "version": "1.0.0"
+    "screenshots": [
+    "https://link-naar-screenshot1.png",
+    "https://link-naar-screenshot2.png"
   }
 ]
